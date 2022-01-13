@@ -16,32 +16,32 @@ The Integrated Library System (ILS) is composed of bibliographic records includi
 
 ATTRIBUTES OF DATASET
 
-Patron Type Code
+Patron Type Code -
 Type of patron record (adult, teen, child, senior, etc.) Some blank.
 
-Patron Type Definition
+Patron Type Definition -
 Description of patron (adult, teen, child, senior, etc.).
 
-Total Checkouts
+Total Checkouts - 
 Total number of items the patron has checked out from the library since the record was created.
 
-Total Renewals
+Total Renewals - 
 Total number of times the patron has renewed checked-out items.
 
-Age Range
+Age Range -
 Age ranges: 0 to 9 years, 10 to 19 years, 20 to 24 years, 25 to 34 years, 35 to 44 years, 45 to 54 years, 55 to 59 years, 60 to 64 years 65 to 74 years, 75 years and over. Some blank.
 
-Home Library Code
+Home Library Code -
 Default value indicates the branch library where the patron was originally registered. Patrons can change this value if they change their preferred branch.
 
-Home Library Definition
+Home Library Definition -
 Description of the branch library where the patron was originally registered.
 
-Circulation Active Month
+Circulation Active Month -
 Year the patron last checked out library materials, or last logged into the library’s subscription databases from a computer outside the library.
 
-Circulation Active Year
+Circulation Active Year -
 This field is used to indicate the patron’s preferred method of receiving library notices (email, print, phone). Some blank.
 
-Notice Preference Code
+Notice Preference Code -
 Description of the patron’s preferred method of receiving library notices.
