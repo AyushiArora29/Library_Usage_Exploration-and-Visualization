@@ -1,5 +1,7 @@
 <h1>Library_Usage_Exploration-and-Visualization</h1>
 
+BY AYUSHI ARORA,YOGESH SACHDEVA AND KRITI SURI
+
 Data exploration and visualization project on Library_Usage dataset using python
 
 Introduction - The dataset includes approximately 420,000 records, with each record representing an anonymized library patron. Individual columns include statistics on the type code and age of the patron, the year the patron registered (only since 2003), and how heavily the patron has been utilizing the library system (in terms of number of checkouts) since first registering.
